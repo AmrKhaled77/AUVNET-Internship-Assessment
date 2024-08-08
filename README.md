@@ -14,3 +14,53 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# AUVNET Internship Assessment
+
+This repository contains the source code and project files for the AUVNET Internship Assessment. The project is designed to demonstrate skills in mobile application development using Flutter.
+
+
+
+- **Final Commit:** The repository contains only the final state of the project, consolidating all development work.
+
+## Technologies Used
+
+- **Flutter:** The primary framework used for building the mobile application.
+- **Dart:** The programming language used for developing the application.
+
+## Installation and Setup
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/AmrKhaled77/AUVNET-Internship-Assessment-.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd AUVNET-Internship-Assessment-
+    ```
+3. Install the required dependencies:
+    ```bash
+    flutter pub get
+    ```
+4. Run the application:
+    ```bash
+    flutter run
+    ```
+
+## Project Structure
+
+- **lib/**: Contains the Dart code for the application.
+- **assets/**: Stores any images, fonts, or other assets used in the project.
+- **test/**: Includes the unit and widget tests for the application.
+
+
+
+
+
+## Contact
+
+ [LinkedIn](https://www.linkedin.com/in/amrkhaled77/) 
+
